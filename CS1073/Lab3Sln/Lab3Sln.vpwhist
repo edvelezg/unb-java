@@ -6,3 +6,35 @@ Lab3.vpj=20110202154240403
 [ActiveConfig]
 Lab3Sln.vpj=Debug
 Lab3.vpj=Debug
+[TreeExpansion2]
+- Lab3.vpj
+  - (default package)
+    - Lab3.java
+- Lab3Sln.vpj
+  - (default package)
+    - Lab3Soln.java
+scroll:0
+[State]
+SCREEN: 1280 1024 0 0 640 984 0 0 M 0 0 0 0 1230 818 0
+CWD: ..\..\..\unb-c\Lab5
+FILEHIST: 9
+..\lab8Soln.m
+..\lab8notes.txt
+..\..\Documents\My SlickEdit Config\15.0.1\ftp\master.licef.ca\home\edvelez\www.daniel-lemire.com\RowReorderingForLongRuns\rowreordering.tex
+..\Lab2Sln\Lab2Sln.java
+Lab3Sln.java
+Main.java
+Lab3Sample
+Lab3Soln.java
+Lab3.java
+DEBUG: 0 0 0 0 5 0 jdwp
+java.*
+javax.*
+com.sun.*
+com.ibm.*
+sun.*
+DEBUG2: 0
+PROJECT_CACHE: 1
+20110202154240403 1 C:\Users\UNBSJ\unb-java\CS1073\Lab3Sln\Lab3.vpj
+Lab3.java
+TBCLASS: 0 0
