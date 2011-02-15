@@ -1,0 +1,46 @@
+[Global]
+CurrentProject=Lab5.vpj
+[ProjectDates]
+Lab5.vpj=20110210134048302
+[ActiveConfig]
+Lab5.vpj=Debug
+[TreeExpansion2]
+- Lab5.vpj
+  - (default package)
+    - AddIntegersInFile.java
+    - input.txt
+scroll:0
+[State]
+SCREEN: 1280 1024 640 492 640 492 0 0 M 0 0 0 0 1230 818 0
+CWD: ..\Lab5
+BUFFER: BN="input.txt"
+BI: MA=1 74 1  TABS=1 3  WWS=1 IWT=0 ST=0 IN=1 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Plain Text	HM=0 MF=0 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="" SC="" SCE= SCU=
+VIEW: LN=.51 CL=33 LE=0 CX=33 CY=4 WI=5 BI=14 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="AddIntegersInFile.java"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=1049192 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="" SC="" SCE= SCU=
+VIEW: LN=.1985 CL=40 LE=0 CX=40 CY=38 WI=5 BI=12 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 1230 818 -1 -1 M  WF=0 WT=2 ",,,"
+BUFFER: BN="AddIntegersInFile.java"
+VIEW: LN=.1985 CL=40 LE=0 CX=40 CY=38 WI=86 BI=12 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 9
+\Program Files (x86)\SlickEditV15.0.1\CS1083_3\CS1083_3.java
+..\path
+..\CoinPouch.java
+..\..\..\unb-c\emails.txt
+..\..\..\Documents\CS1083.csv
+notes.txt
+\Program Files (x86)\Java\jdk1.6.0_23\src.zip\java\util\NoSuchElementException.java
+input.txt
+AddIntegersInFile.java
+DEBUG: 0 0 0 0 5 0 jdwp
+java.*
+javax.*
+com.sun.*
+com.ibm.*
+sun.*
+DEBUG2: 0
+PROJECT_CACHE: 1
+20110210134048302 2 C:\Users\UNBSJ\unb-java\CS1083\Lab5\Lab5.vpj
+AddIntegersInFile.java
+input.txt
+TBCLASS: 0 0
