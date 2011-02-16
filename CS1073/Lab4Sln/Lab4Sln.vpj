@@ -367,6 +367,7 @@
 			Name="(default package)"
 			Type="Package">
 			<F N="lab4.pdf"/>
+			<F N="Lab4Sample.java"/>
 			<F N="Lab4Sln.vpj"/>
 			<F N="Lab4Sln.vpw"/>
 			<F N="Lab4Sln.vpwhist"/>
