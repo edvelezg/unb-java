@@ -12,9 +12,8 @@ public class Lab4Soln{
   public static void main(String[] args){
 
     int counter = 0;
-    double pi = 1;
-    double denominator = 3;
-
+    double pi = 0;
+    double denominator = 1;
 
     System.out.println("Enter the number of terms you want me to include");
 
@@ -24,10 +23,9 @@ public class Lab4Soln{
 
     while(counter < n){
       if(counter % 2 == 0)
-	pi = pi - 1/denominator;
+          pi = pi + 1/denominator;
       else
-	pi = pi + 1/denominator;
-
+          pi = pi - 1/denominator;
       counter++;
       denominator += 2;
     }
