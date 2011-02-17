@@ -1,0 +1,68 @@
+[Global]
+CurrentProject=Lab6.vpj
+[ProjectDates]
+Lab6.vpj=20110217032304781
+[ActiveConfig]
+Lab6.vpj=Debug
+[State]
+SCREEN: 1280 1024 640 492 640 492 0 0 M 0 0 0 0 1230 818 0
+CWD: ..\Lab6
+BUFFER: BN="Lab6Test.java"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="" SC="" SCE= SCU=
+VIEW: LN=.73 CL=1 LE=0 CX=1 CY=0 WI=5 BI=6 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="Animal.java"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="" SC="" SCE= SCU=
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=5 BI=7 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="Cow.java"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="" SC="" SCE= SCU=
+VIEW: LN=.233 CL=1 LE=0 CX=1 CY=16 WI=5 BI=8 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="DomesticAnimal.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="" SC="" SCE= SCU=
+VIEW: LN=.57 CL=5 LE=0 CX=5 CY=2 WI=5 BI=9 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="Horse.java"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=0 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="" SC="" SCE= SCU=
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=5 BI=10 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="Pig.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=1049128 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="" SC="" SCE= SCU=
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=5 BI=11 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 1230 818 -1 -1 M  WF=0 WT=2 ",,,"
+BUFFER: BN="Pig.java"
+VIEW: LN=.234 CL=2 LE=0 CX=2 CY=15 WI=14 BI=11 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 9
+..\..\CS1073\Lab4Sln\Lab4dumb.java
+..\..\..\Documents\My SlickEdit Config\15.0.1\ftp\master.licef.ca\home\edvelez\www.daniel-lemire.com\ColumnMerging\UsingRuncount1\RelatedColumnsVP\scripts\RCflat.txt
+..\..\..\Documents\My SlickEdit Config\15.0.1\ftp\master.licef.ca\home\edvelez\www.daniel-lemire.com\ColumnMerging\UsingRuncount1\RelatedColumnsVP\scripts\table.txt
+Lab6Test.java
+Horse.java
+Animal.java
+Cow.java
+DomesticAnimal.java
+Pig.java
+DEBUG: 0 0 0 0 5 0 jdwp
+java.*
+javax.*
+com.sun.*
+com.ibm.*
+sun.*
+DEBUG2: 0
+PROJECT_CACHE: 1
+20110217032304781 7 C:\Users\UNBSJ\unb-java\CS1083\Lab6\Lab6.vpj
+Animal.java
+Cow.java
+DomesticAnimal.java
+Horse.java
+Lab 6 Instructions.doc
+Lab6Test.java
+Pig.java
+TBCLASS: 0 0
+[TreeExpansion2]
+- Lab6.vpj
+  - (default package)
+    - Animal.java
+    - Cow.java
+    - DomesticAnimal.java
+    - Horse.java
+    - Lab 6 Instructions.doc
+    - Lab6Test.java
+    - Pig.java
+scroll:0
