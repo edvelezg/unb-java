@@ -17,7 +17,7 @@ Lab4Sln.vpj=Debug
 scroll:0
 [State]
 SCREEN: 1280 1024 640 492 640 492 0 0 M 0 0 0 0 1230 818 0
-CWD: ..\..\CS1083\Lab6
+CWD: ..\Lab4Sln
 FILEHIST: 9
 ..\..\CS1083\Lab5\notes.txt
 \Program Files (x86)\Java\jdk1.6.0_23\src.zip\java\util\NoSuchElementException.java
