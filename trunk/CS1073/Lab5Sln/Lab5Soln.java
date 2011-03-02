@@ -60,7 +60,4 @@ public class Lab5Soln
 
         return sum;
     }
-
-
-
 }
