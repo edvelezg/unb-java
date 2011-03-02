@@ -1,0 +1,49 @@
+[Global]
+CurrentProject=Lab7.vpj
+[ProjectDates]
+Lab7.vpj=20110224133105567
+[ActiveConfig]
+Lab7.vpj=Debug
+[TreeExpansion2]
+- Lab7.vpj
+  - (default package)
+    - Animal.java
+    - DomesticAnimal.java
+    - Lab 7 Instructions.doc
+    - Lab7Test.java
+    - Owner.java
+scroll:0
+[State]
+SCREEN: 1280 1024 330 166 640 492 0 0 M 0 0 0 0 1230 818 0
+CWD: ..\Lab7
+BUFFER: BN="Lab7Test.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=1180264 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="" SC="" SCE= SCU=
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=5 BI=12 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 1230 818 -1 -1 M  WF=0 WT=2 ",,,"
+BUFFER: BN="Lab7Test.java"
+VIEW: LN=.455 CL=1 LE=0 CX=1 CY=21 WI=128 BI=12 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 9
+..\..\..\Documents\My SlickEdit Config\15.0.1\ftp\master.licef.ca\home\edvelez\www.daniel-lemire.com\ColumnMerging\UsingRuncount1\RelatedColumnsVP\scripts\nohup.out
+..\..\..\Documents\My SlickEdit Config\15.0.1\ftp\master.licef.ca\home\edvelez\www.daniel-lemire.com\ColumnMerging\UsingRuncount1\RelatedColumnsVP\output\pr0.rc.txt
+..\..\..\Documents\My SlickEdit Config\15.0.1\ftp\138.119.38.172\Users\Naix\www.daniel-lemire.com\EdStuff\thesis\runcount.tex
+..\..\..\Documents\My SlickEdit Config\15.0.1\ftp\master.licef.ca\home\edvelez\findMirrorDir.sh
+\cygwin\home\UNBSJ\.ssh\authorized_keys
+\cygwin\home\UNBSJ\.bashrc
+\cygwin\home\UNBSJ\findMirrorDir.sh
+..\..\..\Desktop\TODO\ToDo.txt
+Lab7Test.java
+DEBUG: 0 0 0 0 5 0 jdwp
+java.*
+javax.*
+com.sun.*
+com.ibm.*
+sun.*
+DEBUG2: 0
+PROJECT_CACHE: 1
+20110224133105567 5 C:\Users\UNBSJ\unb-java\CS1083\Lab7\Lab7.vpj
+Animal.java
+DomesticAnimal.java
+Lab 7 Instructions.doc
+Lab7Test.java
+Owner.java
+TBCLASS: 0 0
