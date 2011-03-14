@@ -59,10 +59,6 @@ public class Lab6Soln
 
     }//end main
 
-
-
-
-
     public static int max(int[] nums)
     {
         //find max in nums using a regular FOR loop
