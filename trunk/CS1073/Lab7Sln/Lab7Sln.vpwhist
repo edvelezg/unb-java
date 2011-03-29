@@ -1,0 +1,41 @@
+[Global]
+CurrentProject=Lab7Sln.vpj
+[ProjectDates]
+Lab7Sln.vpj=20110323184725949
+[ActiveConfig]
+Lab7Sln.vpj=Debug
+[TreeExpansion2]
+- Lab7Sln.vpj
+  - (default package)
+    - DistinctNumbers.java
+scroll:0
+[State]
+SCREEN: 1280 1024 640 0 640 984 0 0 M 0 0 0 0 1230 824 0
+CWD: ..\Lab7Sln
+BUFFER: BN="DistinctNumbers.java"
+BI: MA=1 74 1  TABS=1 9  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=Java	HM=0 MF=608 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="" SC="" SCE= SCU=
+VIEW: LN=.0 CL=1 LE=0 CX=1 CY=0 WI=5 BI=11 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 953 576 -1 -1 M  WF=0 WT=2 ",,,"
+BUFFER: BN="DistinctNumbers.java"
+VIEW: LN=.479 CL=24 LE=0 CX=24 CY=19 WI=75 BI=11 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 9
+..\..\..\unb-dw\project\StandAloneAnnie\error.txt
+..\..\..\unb-dw\project\StandAloneAnnie\Error2.txt
+..\..\..\unb-dw\project\StandAloneAnnie\asd
+..\..\..\unb-dw\project\StandAloneAnnie\StandAloneAnnie.java
+..\..\..\unb-dw\project\StandAloneAnnie\classpath.txt
+..\..\..\unb-dw\project\StandAloneAnnie\command.txt
+..\..\..\unb-dw\project\StandAloneAnnie\Main.java
+..\..\CS1083\Lab8\Lab8.java
+DistinctNumbers.java
+DEBUG: 0 0 0 0 5 0 jdwp
+java.*
+javax.*
+com.sun.*
+com.ibm.*
+sun.*
+DEBUG2: 0
+PROJECT_CACHE: 1
+20110323184725949 1 C:\Users\UNBSJ\unb-java\CS1073\Lab7Sln\Lab7Sln.vpj
+DistinctNumbers.java
+TBCLASS: 0 0
